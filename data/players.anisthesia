@@ -136,6 +136,16 @@ Kodi
 	strategies:
 		open_files
 
+Kodi Control Mini
+	windows:
+		AutoHotkeyGUI
+	executables:
+		AutoHotkey
+	strategies:
+		ui_automation
+		window_title:
+			^(.+) \| Kodi Control Mini
+
 Light Alloy
 	windows:
 		TApplication
