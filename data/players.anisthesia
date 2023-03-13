@@ -141,6 +141,7 @@ Kodi Control Mini
 		AutoHotkeyGUI
 	executables:
 		AutoHotkey
+		AutoHotkeyU64
 	strategies:
 		ui_automation
 		window_title:
